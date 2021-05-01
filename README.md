@@ -4,12 +4,34 @@
 Iterable reducers for JavaScript.
 See [docs](https://iterable-iterator.github.io/reduce/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import {range} from '@iterable-iterator/range';
+import {reduce} from '@iterable-iterator/reduce';
+import {mul, add} from '@functional-abstraction/operator';
+
+reduce( mul , range( 2 , 6 ) , 1 ) ; // 120
+reduce( add , range( 2 , 6 ) , 1 ) ; // 15
+
+import {sum} from '@iterable-iterator/reduce';
+sum( range( 6 ) ) ; // 15
+
+import {any, all, some} from '@iterable-iterator/reduce';
+any( [ false* , true , ... ] ) ; // T
+any( [ false* ] ) ; // F
+all( [ true* , false , ... ] ) ; // F
+all( [ true* ] ) ; // T
+some( [ true , true , false , true , ... ] , 3 ) ; // T
+some( [ true , false , true , false* ] , 3 ) ; // F
+
+import {increasing, decreasing} from "@total-order/primitive" ;
+import {min, max} from '@iterable-iterator/reduce';
+min( increasing , [ 2 , 1 , 3 ] ) ; // 1
+max( increasing , [ 2 , 1 , 3 ] ) ; // 3
+```
 
 [![License](https://img.shields.io/github/license/iterable-iterator/reduce.svg)](https://raw.githubusercontent.com/iterable-iterator/reduce/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/reduce.svg)](https://www.npmjs.org/package/@iterable-iterator/reduce)
