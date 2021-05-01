@@ -1,0 +1,1268 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/_reduce.js",
+    "content": "/**\n * Applies the accumulator function iteratively on the last return value of the\n * accumulator and the next value in the input iterable. The initial value is\n * the initializer parameter.\n *\n * @example\n * _reduce( ( x , y ) => x + y , range( 10 ) , 0 ) ; // returns 45\n *\n * @example\n * _reduce( ( x , y ) => x + y , range( 10 ) , 100 ) ; // returns 145\n *\n * @param {Function} accumulator - The accumulator, a 2-ary function.\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} initializer - The initial value of the reduction.\n * @returns {Object} - The reduction of the elements of <code>iterable</code>.\n */\nexport default function _reduce(accumulator, iterable, initializer) {\n\tfor (const item of iterable) {\n\t\tinitializer = accumulator(initializer, item);\n\t}\n\n\treturn initializer;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/_reduce.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "_reduce",
+    "memberof": "src/_reduce.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_reduce.js~_reduce",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/_reduce.js",
+    "importStyle": "_reduce",
+    "description": "Applies the accumulator function iteratively on the last return value of the\naccumulator and the next value in the input iterable. The initial value is\nthe initializer parameter.",
+    "examples": [
+      "_reduce( ( x , y ) => x + y , range( 10 ) , 0 ) ; // returns 45",
+      "_reduce( ( x , y ) => x + y , range( 10 ) , 100 ) ; // returns 145"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} - The reduction of the elements of <code>iterable</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "accumulator",
+        "description": "The accumulator, a 2-ary function."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "initializer",
+        "description": "The initial value of the reduction."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The reduction of the elements of <code>iterable</code>."
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/_sum.js",
+    "content": "/**\n * Sums the elements of the input iterable. An optional initializer parameter\n * allows to start the sum of the elements at a chosen value.\n *\n * @example\n * _sum( range( 10 ) , 0 ) ; // returns 45\n *\n * @example\n * _sum( range( 10 ) , 100 ) ; // returns 145\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} initializer - The initial value of the sum.\n * @returns {Object} - The sum of the initializer with the elements of\n * <code>iterable</code>.\n *\n */\nexport default function _sum(iterable, initializer) {\n\tfor (const item of iterable) {\n\t\tinitializer += item;\n\t}\n\n\treturn initializer;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/_sum.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "_sum",
+    "memberof": "src/_sum.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_sum.js~_sum",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/_sum.js",
+    "importStyle": "_sum",
+    "description": "Sums the elements of the input iterable. An optional initializer parameter\nallows to start the sum of the elements at a chosen value.",
+    "examples": [
+      "_sum( range( 10 ) , 0 ) ; // returns 45",
+      "_sum( range( 10 ) , 100 ) ; // returns 145"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} - The sum of the initializer with the elements of\n<code>iterable</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "initializer",
+        "description": "The initial value of the sum."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The sum of the initializer with the elements of\n<code>iterable</code>."
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/all.js",
+    "content": "/**\n * Returns true if all of the elements of the input iterable are truthy.\n *\n * @example\n * all( repeat( true ) ) ; // loops forever\n *\n * @example\n * all( repeat( false ) ) ; // returns false\n *\n * @example\n * all( chain( [ nrepeat( true , 10 ) , repeat( false ) ) ) ; // returns false\n *\n * @param {Iterable} iterable - The input iterable.\n * @returns {Boolean} Returns <code>true</code> if all element of\n * <code>iterable</code> are truthy, <code>false</code> otherwise.\n */\nexport default function all(iterable) {\n\tfor (const item of iterable) {\n\t\tif (!item) {\n\t\t\treturn false;\n\t\t}\n\t}\n\n\treturn true;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/all.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "all",
+    "memberof": "src/all.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/all.js~all",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/all.js",
+    "importStyle": "all",
+    "description": "Returns true if all of the elements of the input iterable are truthy.",
+    "examples": [
+      "all( repeat( true ) ) ; // loops forever",
+      "all( repeat( false ) ) ; // returns false",
+      "all( chain( [ nrepeat( true , 10 ) , repeat( false ) ) ) ; // returns false"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Boolean} Returns <code>true</code> if all element of\n<code>iterable</code> are truthy, <code>false</code> otherwise."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": "Returns <code>true</code> if all element of\n<code>iterable</code> are truthy, <code>false</code> otherwise."
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/any.js",
+    "content": "/**\n * Returns true if any of the elements of the input iterable is truthy.\n *\n * @example\n * any( repeat( true ) ) ; // returns true\n *\n * @example\n * any( repeat( false ) ) ; // loops forever\n *\n * @example\n * any( nrepeat( false , 10 ) ) ; // returns false\n *\n * @param {Iterable} iterable - The input iterable.\n * @returns {Boolean} Returns <code>true</code> if any element of\n * <code>iterable</code> is truthy, <code>false</code> otherwise.\n */\nexport default function any(iterable) {\n\tfor (const item of iterable) {\n\t\tif (item) {\n\t\t\treturn true;\n\t\t}\n\t}\n\n\treturn false;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/any.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "any",
+    "memberof": "src/any.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/any.js~any",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/any.js",
+    "importStyle": "any",
+    "description": "Returns true if any of the elements of the input iterable is truthy.",
+    "examples": [
+      "any( repeat( true ) ) ; // returns true",
+      "any( repeat( false ) ) ; // loops forever",
+      "any( nrepeat( false , 10 ) ) ; // returns false"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Boolean} Returns <code>true</code> if any element of\n<code>iterable</code> is truthy, <code>false</code> otherwise."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": "Returns <code>true</code> if any element of\n<code>iterable</code> is truthy, <code>false</code> otherwise."
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as _reduce} from './_reduce.js';\nexport {default as _sum} from './_sum.js';\nexport {default as all} from './all.js';\nexport {default as any} from './any.js';\nexport {default as max} from './max.js';\nexport {default as min} from './min.js';\nexport {default as reduce} from './reduce.js';\nexport {default as some} from './some.js';\nexport {default as sum} from './sum.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/max.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\n\n/**\n * Returns the largest element of the input iterable according\n * to some comparison function.\n *\n * @example\n * max( ( a , b ) => a - b , range( 10 ) ) ; // returns 9\n *\n * @example\n * max( ( a , b ) => a - b , range( 0 ) ) ; // returns undefined\n *\n * @param {Function} compare - The comparison function to use. This function\n * must be 2-ary. It must return -1, 0, or 1 depending whether the first\n * parameter is, respectively, less than, equal to, or greater than the second\n * parameter.\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} [dflt=undefined] - The default value to return in the case\n * that the input iterable is empty.\n * @returns {Object} The largest element of <code>iterable</code> according to\n * <code>compare</code>.\n */\nexport default function max(compare, iterable, dflt = undefined) {\n\tconst iterator = iter(iterable);\n\n\tconst first = iterator.next();\n\n\tif (first.done) {\n\t\treturn dflt;\n\t}\n\n\tlet largest = first.value;\n\n\tfor (const candidate of iterator) {\n\t\tif (compare(candidate, largest) > 0) {\n\t\t\tlargest = candidate;\n\t\t}\n\t}\n\n\treturn largest;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/max.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "max",
+    "memberof": "src/max.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/max.js~max",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/max.js",
+    "importStyle": "max",
+    "description": "Returns the largest element of the input iterable according\nto some comparison function.",
+    "examples": [
+      "max( ( a , b ) => a - b , range( 10 ) ) ; // returns 9",
+      "max( ( a , b ) => a - b , range( 0 ) ) ; // returns undefined"
+    ],
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} The largest element of <code>iterable</code> according to\n<code>compare</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "compare",
+        "description": "The comparison function to use. This function\nmust be 2-ary. It must return -1, 0, or 1 depending whether the first\nparameter is, respectively, less than, equal to, or greater than the second\nparameter."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "undefined",
+        "defaultRaw": "undefined",
+        "name": "dflt",
+        "description": "The default value to return in the case\nthat the input iterable is empty."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The largest element of <code>iterable</code> according to\n<code>compare</code>."
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/min.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\n\n/**\n * Returns the smallest element of the input iterable according\n * to some comparison function.\n *\n * @example\n * min( ( a , b ) => a - b , range( 10 ) ) ; // returns 0\n *\n * @example\n * min( ( a , b ) => a - b , range( 0 ) ) ; // returns undefined\n *\n * @param {Function} compare - The comparison function to use. This function\n * must be 2-ary. It must return -1, 0, or 1 depending whether the first\n * parameter is, respectively, less than, equal to, or greater than the second\n * parameter.\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} [dflt=undefined] - The default value to return in the case\n * that the input iterable is empty.\n * @returns {Object} The smallest element of <code>iterable</code> according to\n * <code>compare</code>.\n */\nexport default function min(compare, iterable, dflt = undefined) {\n\tconst iterator = iter(iterable);\n\n\tconst first = iterator.next();\n\n\tif (first.done) {\n\t\treturn dflt;\n\t}\n\n\tlet smallest = first.value;\n\n\tfor (const candidate of iterator) {\n\t\tif (compare(candidate, smallest) < 0) {\n\t\t\tsmallest = candidate;\n\t\t}\n\t}\n\n\treturn smallest;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/min.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "min",
+    "memberof": "src/min.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/min.js~min",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/min.js",
+    "importStyle": "min",
+    "description": "Returns the smallest element of the input iterable according\nto some comparison function.",
+    "examples": [
+      "min( ( a , b ) => a - b , range( 10 ) ) ; // returns 0",
+      "min( ( a , b ) => a - b , range( 0 ) ) ; // returns undefined"
+    ],
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} The smallest element of <code>iterable</code> according to\n<code>compare</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "compare",
+        "description": "The comparison function to use. This function\nmust be 2-ary. It must return -1, 0, or 1 depending whether the first\nparameter is, respectively, less than, equal to, or greater than the second\nparameter."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "undefined",
+        "defaultRaw": "undefined",
+        "name": "dflt",
+        "description": "The default value to return in the case\nthat the input iterable is empty."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The smallest element of <code>iterable</code> according to\n<code>compare</code>."
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/reduce.js",
+    "content": "import _reduce from './_reduce.js';\nimport {iter} from '@iterable-iterator/iter';\n\n/**\n * Applies the accumulator function iteratively on the last return value of the\n * accumulator and the next value in the input iterable. The initial value is\n * the initializer parameter. If no initial value is given, the first element\n * of the input iterable is used.\n *\n * @example\n * _reduce( ( x , y ) => x + y , range( 10 ) , 0 ) ; // returns 45\n *\n * @example\n * _reduce( ( x , y ) => x + y , range( 10 ) , 100 ) ; // returns 145\n *\n * @param {Function} accumulator - The accumulator, a 2-ary function.\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} [initializer=undefined] - The initial value of the reduction.\n * @returns {Object} - The reduction of the elements of <code>iterable</code>.\n */\nexport default function reduce(accumulator, iterable, initializer = undefined) {\n\tif (initializer === undefined) {\n\t\tconst iterator = iter(iterable);\n\t\tconst first = iterator.next();\n\n\t\tif (first.done) {\n\t\t\treturn undefined;\n\t\t}\n\n\t\treturn _reduce(accumulator, iterator, first.value);\n\t}\n\n\treturn _reduce(accumulator, iterable, initializer);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/reduce.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "reduce",
+    "memberof": "src/reduce.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reduce.js~reduce",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/reduce.js",
+    "importStyle": "reduce",
+    "description": "Applies the accumulator function iteratively on the last return value of the\naccumulator and the next value in the input iterable. The initial value is\nthe initializer parameter. If no initial value is given, the first element\nof the input iterable is used.",
+    "examples": [
+      "_reduce( ( x , y ) => x + y , range( 10 ) , 0 ) ; // returns 45",
+      "_reduce( ( x , y ) => x + y , range( 10 ) , 100 ) ; // returns 145"
+    ],
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} - The reduction of the elements of <code>iterable</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "accumulator",
+        "description": "The accumulator, a 2-ary function."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "undefined",
+        "defaultRaw": "undefined",
+        "name": "initializer",
+        "description": "The initial value of the reduction."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The reduction of the elements of <code>iterable</code>."
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/some.js",
+    "content": "/**\n * Returns true if at least some of the elements of the input iterable are\n * truthy.\n *\n * @example\n * some( repeat( true ) , 100 ) ; // returns true\n *\n * @example\n * some( repeat( false ) , 0 ) ; // returns true\n *\n * @example\n * some( repeat( false ) , 10 ) ; // loops forever\n *\n * @example\n * some( nrepeat( true , 10 ) , 11 ) ; // returns false\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The number of elements that should be truthy.\n * @returns {Boolean} Returns <code>true</code> if at least <code>n</code>\n * elements of <code>iterable</code> are truthy, <code>false</code> otherwise.\n */\n\nexport default function some(iterable, n) {\n\tif (n <= 0) {\n\t\treturn true;\n\t}\n\n\tfor (const item of iterable) {\n\t\tif (item && --n === 0) {\n\t\t\treturn true;\n\t\t}\n\t}\n\n\treturn false;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/some.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "some",
+    "memberof": "src/some.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/some.js~some",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/some.js",
+    "importStyle": "some",
+    "description": "Returns true if at least some of the elements of the input iterable are\ntruthy.",
+    "examples": [
+      "some( repeat( true ) , 100 ) ; // returns true",
+      "some( repeat( false ) , 0 ) ; // returns true",
+      "some( repeat( false ) , 10 ) ; // loops forever",
+      "some( nrepeat( true , 10 ) , 11 ) ; // returns false"
+    ],
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Boolean} Returns <code>true</code> if at least <code>n</code>\nelements of <code>iterable</code> are truthy, <code>false</code> otherwise."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number of elements that should be truthy."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": "Returns <code>true</code> if at least <code>n</code>\nelements of <code>iterable</code> are truthy, <code>false</code> otherwise."
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/sum.js",
+    "content": "import _sum from './_sum.js';\n\n/**\n * Sums the elements of the input iterable. An optional initializer parameter\n * allows to start the sum of the elements at a chosen value. The default value\n * for the initializer parameter is <code>0</code>.\n *\n * @example\n * sum( range( 10 ) ) ; // returns 45\n *\n * @example\n * sum( range( 10 ) , 100 ) ; // returns 145\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Object} [initializer=0] - The initial value of the sum.\n * @returns {Object} - The sum of the initializer with the elements of\n * <code>iterable</code>.\n *\n */\nexport default function sum(iterable, initializer = 0) {\n\treturn _sum(iterable, initializer);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/reduce/reduce/src/sum.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "sum",
+    "memberof": "src/sum.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/sum.js~sum",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/reduce/src/sum.js",
+    "importStyle": "sum",
+    "description": "Sums the elements of the input iterable. An optional initializer parameter\nallows to start the sum of the elements at a chosen value. The default value\nfor the initializer parameter is <code>0</code>.",
+    "examples": [
+      "sum( range( 10 ) ) ; // returns 45",
+      "sum( range( 10 ) , 100 ) ; // returns 145"
+    ],
+    "lineNumber": 20,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} - The sum of the initializer with the elements of\n<code>iterable</code>."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0",
+        "defaultRaw": 0,
+        "name": "initializer",
+        "description": "The initial value of the sum."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The sum of the initializer with the elements of\n<code>iterable</code>."
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":bowl_with_spoon: [@iterable-iterator/reduce](https://iterable-iterator.github.io/reduce)\n==\n\nIterable reducers for JavaScript.\nSee [docs](https://iterable-iterator.github.io/reduce/index.html).\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n```js\nimport {range} from '@iterable-iterator/range';\nimport {reduce} from '@iterable-iterator/reduce';\nimport {mul, add} from '@functional-abstraction/operator';\n\nreduce( mul , range( 2 , 6 ) , 1 ) ; // 120\nreduce( add , range( 2 , 6 ) , 1 ) ; // 15\n\nimport {sum} from '@iterable-iterator/reduce';\nsum( range( 6 ) ) ; // 15\n\nimport {any, all, some} from '@iterable-iterator/reduce';\nany( [ false* , true , ... ] ) ; // T\nany( [ false* ] ) ; // F\nall( [ true* , false , ... ] ) ; // F\nall( [ true* ] ) ; // T\nsome( [ true , true , false , true , ... ] , 3 ) ; // T\nsome( [ true , false , true , false* ] , 3 ) ; // F\n\nimport {increasing, decreasing} from \"@total-order/primitive\" ;\nimport {min, max} from '@iterable-iterator/reduce';\nmin( increasing , [ 2 , 1 , 3 ] ) ; // 1\nmax( increasing , [ 2 , 1 , 3 ] ) ; // 3\n```\n\n[![License](https://img.shields.io/github/license/iterable-iterator/reduce.svg)](https://raw.githubusercontent.com/iterable-iterator/reduce/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@iterable-iterator/reduce.svg)](https://www.npmjs.org/package/@iterable-iterator/reduce)\n[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/reduce/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/reduce/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/iterable-iterator/reduce.svg)](https://david-dm.org/iterable-iterator/reduce)\n[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/reduce.svg)](https://david-dm.org/iterable-iterator/reduce?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/reduce.svg)](https://github.com/iterable-iterator/reduce/issues)\n[![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/reduce.svg)](https://www.npmjs.org/package/@iterable-iterator/reduce)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/iterable-iterator/reduce.svg)](https://codeclimate.com/github/iterable-iterator/reduce/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/iterable-iterator/reduce.svg)](https://codeclimate.com/github/iterable-iterator/reduce/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/iterable-iterator/reduce/main.svg)](https://codecov.io/gh/iterable-iterator/reduce)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/iterable-iterator/reduce.svg)](https://codeclimate.com/github/iterable-iterator/reduce/trends/technical_debt)\n[![Documentation](https://iterable-iterator.github.io/reduce/badge.svg)](https://iterable-iterator.github.io/reduce/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@iterable-iterator/reduce)](https://bundlephobia.com/result?p=@iterable-iterator/reduce)\n",
+    "longname": "/home/runner/work/reduce/reduce/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@iterable-iterator/reduce\",\n  \"description\": \"Iterable reducers for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://iterable-iterator.github.io/reduce\",\n  \"repository\": {\n    \"url\": \"https://github.com/iterable-iterator/reduce\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/iterable-iterator/reduce/issues\"\n  },\n  \"keywords\": [\n    \"all\",\n    \"any\",\n    \"iter\",\n    \"iterable\",\n    \"iterator\",\n    \"max\",\n    \"min\",\n    \"reduce\",\n    \"some\",\n    \"sum\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {\n    \"@iterable-iterator/iter\": \"^0.0.2\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"7.14.0\",\n    \"@babel/preset-env\": \"7.14.0\",\n    \"@babel/register\": \"7.13.16\",\n    \"@commitlint/cli\": \"12.1.1\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"@total-order/primitive\": \"^0.0.2\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.7.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"6.0.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.5.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.39.1\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": [\n        \"error\",\n        {\n          \"cases\": {\n            \"camelCase\": true,\n            \"pascalCase\": true\n          }\n        }\n      ]\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/reduce/reduce/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/reduce/reduce/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/reduce/reduce/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @iterable-iterator/reduce\n```\n\n### npm\n```terminal\nnpm install @iterable-iterator/reduce --save\n```\n\n### jspm\n```terminal\njspm install npm:@iterable-iterator/reduce\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/reduce/reduce/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' ) ;\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst reduce = require( '@iterable-iterator/reduce' ) ;\n// or\nimport * as reduce from '@iterable-iterator/reduce' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/reduce/reduce/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/iterable-iterator/reduce/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
