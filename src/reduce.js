@@ -1,4 +1,5 @@
 import {iter} from '@iterable-iterator/iter';
+
 import _reduce from './_reduce.js';
 
 /**
