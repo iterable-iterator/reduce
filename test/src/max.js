@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {increasing, decreasing} from '@total-order/primitive';
 
-import {max} from '../../src/index.js';
+import {max} from '#module';
 
 test('max', (t) => {
 	const x = (iterable, compare, expected) =>

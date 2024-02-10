@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {increasing, decreasing} from '@total-order/primitive';
 
-import {min} from '../../src/index.js';
+import {min} from '#module';
 
 test('min', (t) => {
 	const x = (iterable, compare, expected) =>

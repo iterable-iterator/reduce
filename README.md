@@ -35,7 +35,7 @@ max( increasing , [ 2 , 1 , 3 ] ) ; // 3
 
 [![License](https://img.shields.io/github/license/iterable-iterator/reduce.svg)](https://raw.githubusercontent.com/iterable-iterator/reduce/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/reduce.svg)](https://www.npmjs.org/package/@iterable-iterator/reduce)
-[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/reduce/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/reduce/actions/workflows/ci:test.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/reduce/ci?event=push&label=tests)](https://github.com/iterable-iterator/reduce/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/reduce.svg)](https://github.com/iterable-iterator/reduce/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/reduce.svg)](https://github.com/iterable-iterator/reduce/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/reduce.svg)](https://www.npmjs.org/package/@iterable-iterator/reduce)
